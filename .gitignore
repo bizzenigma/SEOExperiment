@@ -3,3 +3,8 @@
 ################################################################################
 
 /packages
+/SEOExperiment/bin
+/SEOExperiment.Analyser/bin/Debug
+/SEOExperiment.Analyser/obj/Debug
+/SEOExperiment/obj/Debug
+/.vs/SEOExperiment
