@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEOExperiment.UI", "SEOExperiment\SEOExperiment.UI.csproj", "{A2307D94-6B73-4BAD-A772-6CEFE5C69C1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEOExperiment.Analyser", "SEOExperiment.Analyser\SEOExperiment.Analyser.csproj", "{FFA9318E-6AD8-43C2-B55A-0EBCCD6ADD3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2307D94-6B73-4BAD-A772-6CEFE5C69C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2307D94-6B73-4BAD-A772-6CEFE5C69C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2307D94-6B73-4BAD-A772-6CEFE5C69C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2307D94-6B73-4BAD-A772-6CEFE5C69C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA9318E-6AD8-43C2-B55A-0EBCCD6ADD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA9318E-6AD8-43C2-B55A-0EBCCD6ADD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA9318E-6AD8-43C2-B55A-0EBCCD6ADD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA9318E-6AD8-43C2-B55A-0EBCCD6ADD3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0719065-7BE0-476C-ADE3-9B37FF1107EF}
+	EndGlobalSection
+EndGlobal
